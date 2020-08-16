@@ -20,3 +20,11 @@ Matheus Aguiar
 
 João Eduardo
 
+## Execução
+
+Devem ser executados os dois arquivos Notebook contidos no repositório
+
+BeerPredict.ipynb
+
+NoAlcoholDrinks.ipynb
+
